@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": [
+    "lib",
+    "com",
+    "com\\data"
+  ]
+  "java.home":[
+     "C:\Program Files\Java\jre1.8.0_361\legal"
+    ]
+}
